@@ -1,2 +1,6 @@
-# intoduction-qwiklabs-assessment
-Google IT Automation Introduction to Git and GitHub Assessment
+# Google IT Automation Certificate 
+
+## Introduction to Git and Github Assessment
+
+
+I am editing the README file. Adding some more details about the project description.
