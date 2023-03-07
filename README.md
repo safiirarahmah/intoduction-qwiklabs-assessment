@@ -1,5 +1,4 @@
-# Google IT Automation Certificate 
-## Introduction to Git and Github Week 3  Assessment
-
+# Google IT Automation Certificate Coursera
+## Introduction to Git and Github
 
 I am editing the README file. Adding some more details about the project description.
